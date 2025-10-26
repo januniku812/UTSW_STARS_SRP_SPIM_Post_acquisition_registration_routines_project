@@ -1,7 +1,7 @@
 '''
 
 NOTE: This code cannot be rerun without the imaging data from the the Bioinformatics Department at UTSW 
-
+TEMPORAL AND SPATIAL SEARCH AND SORT ALGORITHM 
 '''
 
 # necessary imports for reading tif images, SSIM calculations, and possible mappings
