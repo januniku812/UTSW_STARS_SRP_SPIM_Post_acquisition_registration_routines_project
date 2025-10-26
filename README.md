@@ -1,4 +1,4 @@
-Project developed as a Danuser Lab (Lyda Hill Department of Bioinformatics) research intern during 2025 UTSW STARS Summer Research Program. Created post acquisition registration routines to realign in-vivo selective plane illumination microscopy data of transgenic zerbrafish. Implemented one post acquisition  registration routine algorithm for realigning data using a temporal search and sort algorithm and implemented another post acquisition registration routine algorithm using a temporal and spatial (across z planes) search and sort algorithm. 
+Project developed as a Danuser Lab (Lyda Hill Department of Bioinformatics) research intern during 2025 UTSW STARS Summer Research Program. Created post acquisition registration routines to realign in-vivo selective plane illumination microscopy data of transgenic zerbrafish. Implemented a post acquisition  registration routine algorithm for realigning data using a temporal search and sort algorithm that I applied to create 2D and 3D timelapse visualizations for different data stacks acquired. 
 
 **Full Project Research Board**: https://drive.google.com/file/d/1NusKFMVcFF5HnGOu4XOgLQdVwwBy7jBy/view?usp=sharing
 
