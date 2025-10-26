@@ -4,7 +4,7 @@ Project developed as a Danuser Lab (Lyda Hill Department of Bioinformatics) rese
 
 **Full Project Research Board**: https://drive.google.com/file/d/1NusKFMVcFF5HnGOu4XOgLQdVwwBy7jBy/view?usp=sharing
 
-**Abstract**
+**Abstract**: 
 Zebrafish can be used as a model for investigating the cardiovascular systems of human beings,
 which is of interest for understanding the physiological origins of arrhythmias and other heart
 diseases. Selective plane illumination microscopy (SPIM) facilitates fast imaging, low
