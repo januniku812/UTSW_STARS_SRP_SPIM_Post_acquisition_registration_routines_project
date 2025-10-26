@@ -16,20 +16,14 @@ from scipy.stats import pearsonr
 import numpy as np
 from tifffile import imread, imsave, TiffFile# reading in tiffiles for SSIM + stacking and then saving them later for 3D timepoint generation
 
-'''
-
-TEMPORAL SPATIAL SEARCH AND SORT ALGORITHM 
-
-'''
-
 
 # cosine generation function for later
 def cosine_func(x, A, B, C, D):
     return A * np.cos(B * x + C) +  D
 
 
-DATA_DIR = "250713/Fish1"
-RUN_NUMBER = 2
+DATA_DIR = "[]" # this needs to be set manually
+RUN_NUMBER = _ # needs to be set manually
 
 directory_of_cells = f'/archive/bioinformatics/Danuser_lab/zebrafish/raw/Bo-Jui/KRDL_GFP_vas/{DATA_DIR}/Cell'
 repeating_index_array = []
