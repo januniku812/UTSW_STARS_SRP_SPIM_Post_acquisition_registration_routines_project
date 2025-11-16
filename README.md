@@ -1,5 +1,5 @@
-**Post-Acquisition Registration Routines for Reconstructing the Cardiac Cycle of a Zebrafish from Selective Plane Illumination Microscopy Data
-**
+**Post-Acquisition Registration Routines for Reconstructing the Cardiac Cycle of a Zebrafish from Selective Plane Illumination Microscopy Data**
+
 Project developed as a Danuser Lab (Lyda Hill Department of Bioinformatics) research intern during 2025 UTSW STARS Summer Research Program. Created post acquisition registration routines to realign in-vivo selective plane illumination microscopy data of transgenic zerbrafish. Implemented a post acquisition  registration routine algorithm for realigning data using a temporal search and sort algorithm that I applied to create 2D and 3D timelapse visualizations for different data stacks acquired. 
 
 **How to run**: 
